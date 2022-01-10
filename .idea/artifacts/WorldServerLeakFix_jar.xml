@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldServerLeakFix:jar">
+    <output-path>$USER_HOME$/Desktop/svrx86/plugins</output-path>
+    <root id="archive" name="WorldServerLeakFix.jar">
+      <element id="module-output" name="WorldServerLeakFix" />
+    </root>
+  </artifact>
+</component>
